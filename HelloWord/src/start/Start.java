@@ -5,5 +5,6 @@ public class Start {
 		System.out.println("hello world2");
 		
 		System.out.println("깃허브 수정");
+		System.out.println("깃허브에서 수정합니당");
 	}
 }
